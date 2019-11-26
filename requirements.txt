@@ -1,0 +1,4 @@
+aws-cdk.aws-iot
+pkginfo
+setuptools
+libtools
